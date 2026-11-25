@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hello, I'm Tharish. From “what if” to “try this.” Animated orbital developer banner." />
+  <img src="assets/header.svg?v=2" width="100%" alt="Hello, I'm Tharish. From “what if” to “try this.” Animated orbital developer banner." />
 </p>
 
 <p align="center">
@@ -9,8 +9,15 @@
 
 <p align="center">
   <a href="#selected-builds">Selected builds</a> &nbsp; / &nbsp;
-  <a href="#tools-i-build-with">My toolkit</a> &nbsp; / &nbsp;
+  <a href="#tech-stack">My toolkit</a> &nbsp; / &nbsp;
   <a href="https://github.com/Tharish24?tab=repositories">Explore my repositories ↗</a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tharish-j-004765274/"><img src="assets/linkedin.svg" width="160" height="35" alt="LINKEDIN" /></a>
+  <a href="mailto:nbtharish@gmail.com"><img src="assets/email.svg" width="160" height="35" alt="Email nbtharish@gmail.com" /></a>
+  <a href="https://tharish.site/"><img src="assets/portfolio.svg" width="160" height="35" alt="PORTFOLIO" /></a>
+  <a href="https://github.com/Tharish24?tab=repositories"><img src="assets/github.svg" width="160" height="35" alt="GITHUB" /></a>
 </p>
 
 <br/>
@@ -26,11 +33,11 @@
 
 <br/>
 
-### Tools I build with
+### Tech stack
 
-**Web** &nbsp; JavaScript · HTML · CSS  
-**Android** &nbsp; Kotlin · Jetpack Compose · Material 3 · DataStore  
-**Workflow** &nbsp; Git · GitHub · Android Studio
+<img src="assets/skills.svg" width="100%" alt="Python, C++, JavaScript, HTML, CSS, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Google Colab, Kotlin, Jetpack Compose, Material 3, Git, GitHub, Android Studio" />
+
+**Exploring:** Cyber Security · Artificial Intelligence · Problem Solving
 
 <br/>
 
