@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg?v=2" width="100%" alt="Hello, I'm Tharish. From “what if” to “try this.” Animated orbital developer banner." />
+  <img src="assets/banner.svg" width="100%" alt="Hello, I'm Tharish. From “what if” to “try this.” Animated orbital developer banner." />
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tharish-j-004765274/"><img src="assets/linkedin.svg" width="160" height="35" alt="LINKEDIN" /></a>
+  <a href="https://www.instagram.com/tharish_24/"><img src="assets/instagram.svg" width="160" height="35" alt="Instagram @tharish_24" /></a>
   <a href="mailto:nbtharish@gmail.com"><img src="assets/email.svg" width="160" height="35" alt="Email nbtharish@gmail.com" /></a>
   <a href="https://tharish.site/"><img src="assets/portfolio.svg" width="160" height="35" alt="PORTFOLIO" /></a>
   <a href="https://github.com/Tharish24?tab=repositories"><img src="assets/github.svg" width="160" height="35" alt="GITHUB" /></a>
