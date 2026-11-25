@@ -25,18 +25,15 @@
 
 ### Selected builds
 
-<a href="https://github.com/Tharish24/algoscope"><img src="assets/algoscope.svg" width="49%" alt="AlgoScope: animated sorting and searching playground. JavaScript, HTML, CSS." /></a>
-<a href="https://github.com/Tharish24/PackLight-App"><img src="assets/packlight.svg" width="49%" alt="PackLight: native Android travel companion. Kotlin, Jetpack Compose, Material 3." /></a>
+<a href="https://github.com/Tharish24/algoscope"><img src="assets/algoscope-motion.svg" width="100%" alt="AlgoScope: seven sorting and searching algorithms, step controls, timeline seeking, and a learning game. Animated sorting preview. Click to explore the repository." /></a>
 
-| Explore an idea | Take it further |
-| :--- | :--- |
-| **[AlgoScope](https://github.com/Tharish24/algoscope)** — Seven algorithms, step controls, timeline seeking, and a bubble-sort learning game. | **[PackLight](https://github.com/Tharish24/PackLight-App)** — Trip planning, packing checklists, offline guides, live weather, and a travel assistant. |
+<a href="https://github.com/Tharish24/PackLight-App"><img src="assets/packlight-motion.svg" width="100%" alt="PackLight: trip planning, packing lists, offline guides, live weather, and a travel assistant. Animated route and packing checklist. Click to explore the repository." /></a>
 
 <br/>
 
 ### Tech stack
 
-<img src="assets/skills.svg" width="100%" alt="Python, C++, JavaScript, HTML, CSS, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Google Colab, Kotlin, Jetpack Compose, Material 3, Git, GitHub, Android Studio" />
+<img src="assets/skills-motion.svg" width="100%" alt="Python, C++, JavaScript, HTML, CSS, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Google Colab, Kotlin, Jetpack Compose, Material 3, Git, GitHub, Android Studio" />
 
 **Exploring:** Cyber Security · Artificial Intelligence · Problem Solving
 
