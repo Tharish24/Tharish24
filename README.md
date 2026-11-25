@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hello, I'm Tharish. Curiosity in. Useful software out. Animated orbital developer banner." />
+  <img src="assets/header.svg" width="100%" alt="Hello, I'm Tharish. From “what if” to “try this.” Animated orbital developer banner." />
 </p>
 
 <p align="center">
@@ -31,6 +31,12 @@
 **Web** &nbsp; JavaScript · HTML · CSS  
 **Android** &nbsp; Kotlin · Jetpack Compose · Material 3 · DataStore  
 **Workflow** &nbsp; Git · GitHub · Android Studio
+
+<br/>
+
+### Building in public
+
+<img src="assets/activity.svg" width="100%" alt="GitHub contribution calendar, public repository count and stars; refreshed daily." />
 
 <br/>
 
