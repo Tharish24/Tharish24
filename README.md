@@ -29,6 +29,8 @@
 
 <a href="https://github.com/Tharish24/PackLight-App"><img src="assets/packlight-motion.svg" width="100%" alt="PackLight: trip planning, packing lists, offline guides, live weather, and a travel assistant. Animated route and packing checklist. Click to explore the repository." /></a>
 
+<a href="https://github.com/Tharish24/PantryPulse"><img src="assets/pantrypulse-motion.svg" width="100%" alt="PantryPulse: AI fridge and receipt scans, ingredient tracking, dinner plans, ten languages including Tamil, and five animated themes. Illustrated animated freshness preview. Click to explore the repository." /></a>
+
 <br/>
 
 ### Tech stack
